@@ -17,9 +17,8 @@
 ```
 docker-compose -f redis-docker-compose.yml up
 ```
-</br>
+
 ![](/image/docker-compose.jpg)
-</br>
 
 ```
 docker exec -it redis bash
