@@ -9,3 +9,18 @@
 <p>The objective of this project was to configure and test the use of redis. For this development, docker-compose was used to create a docker container with redis, spring boot, java, h2 database and data persistence with spring data jpa.</p>
 
 ![](/image/desenho_solucao.jpg)
+
+## How to use
+
+<p>In the same directory the redis-docker-compose.yml run the following docker command</p>
+
+```
+docker-compose -f redis-docker-compose.yml up
+```
+</br>
+![](/image/docker-compose.jpg)
+</br>
+
+```
+docker exec -it redis bash
+```
