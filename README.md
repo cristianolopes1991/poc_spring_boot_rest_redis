@@ -8,4 +8,4 @@
 
 <p>The objective of this project was to configure and test the use of redis. For this development, docker-compose was used to create a docker container with redis, spring boot, java, h2 database and data persistence with spring data jpa.</p>
 
-![]()
+![](/image/desenho_solucao.jpg)
